@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-10T13:00:12 CEST" name="Suite" finished-at="2020-09-10T13:00:12 CEST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2020-09-10T13:00:12 CEST" name="Test" finished-at="2020-09-10T13:00:12 CEST" duration-ms="68">
+      <class name="qaacademy.MavenProject.RestAPI">
+        <test-method signature="Test3()[pri:0, instance:qaacademy.MavenProject.RestAPI@6f45df59]" started-at="2020-09-10T13:00:12 CEST" name="Test3" finished-at="2020-09-10T13:00:12 CEST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:qaacademy.MavenProject.RestAPI@6f45df59]" started-at="2020-09-10T13:00:12 CEST" name="Test4" finished-at="2020-09-10T13:00:12 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- qaacademy.MavenProject.RestAPI -->
+      <class name="qaacademy.MavenProject.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qaacademy.MavenProject.SeleniumTest@38e79ae3]" started-at="2020-09-10T13:00:12 CEST" name="BrowserAutomation" finished-at="2020-09-10T13:00:12 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaacademy.MavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
